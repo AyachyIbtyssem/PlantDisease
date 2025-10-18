@@ -1,0 +1,50 @@
+# =====================
+# Python cache & bytecode
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Virtual environments
+# =====================
+env/
+venv/
+*.env
+
+# =====================
+# Data & Models
+# =====================
+data/
+models/
+
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Logs & temp files
+# =====================
+*.log
+*.tmp
+*.bak
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# HDF5 & Pickle (trained models)
+# =====================
+*.h5
+*.pkl
+
+# =====================
+# IDE files (optional)
+# =====================
+.idea/
+.vscode/
